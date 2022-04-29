@@ -7,6 +7,7 @@
 </template>
 
 <script>
+
 import "bootstrap"
 import HeaderV from './components/HeaderV.vue'
 import MainV from './components/MainV.vue'
@@ -26,5 +27,6 @@ export default {
 
 @import "bootstrap/dist/css/bootstrap.min.css";
 @import './assets/style/index.scss';
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 </style>
